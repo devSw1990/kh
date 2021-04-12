@@ -22,6 +22,7 @@ public class LabelEx extends JFrame {
 	//텍스트+이미지레이블
 	JLabel label3 = new JLabel("사랑합니다", new ImageIcon("images/cat.png"), SwingConstants.CENTER  );
 	
+	//이것은 레이블 예제입니다.
 	public LabelEx() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setTitle("레이블 예제");
